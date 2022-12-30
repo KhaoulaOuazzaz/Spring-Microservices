@@ -4,8 +4,8 @@
 
 ![alt text](https://github.com/KhaoulaOuazzaz/Spring-Microservices/blob/master/demo/3.png)
 
-- Le micro-service inventory-service :
 
+- Le micro-service inventory-service :
 ![alt text](https://github.com/KhaoulaOuazzaz/Spring-Microservices/blob/master/demo/2.png)
 
 ![alt text](https://github.com/KhaoulaOuazzaz/Spring-Microservices/blob/master/demo/4.png)
